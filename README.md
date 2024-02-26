@@ -3,9 +3,9 @@
 ## Project Setup
 - clone the project
 - run `npm install` in the root directory
-- create a .env file in the root directory and add the following environment variables
-    - PORT=3000
-- Inside the src/config folder create a new file `config.json` and then add the following piece of json
+- create a `.env` file in the root directory and add the following environment variables
+    - `PORT=3000`
+- Inside the `src/config` folder create a new file `config.json` and then add the following piece of json
     ```json
     {
 
@@ -19,3 +19,5 @@
     }
 
     ```
+
+- once you've done the above steps, go the src folder from your terminal and execute `npx sequelize-cli db:create`
