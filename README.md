@@ -16,8 +16,8 @@
         "host": "127.0.0.1",
         "dialect": "mysql"
         },
-    }
+    }f
 
     ```
 
-- once you've done the above steps, go the src folder from your terminal and execute `npx sequelize-cli db:create`
+- once you've done the above steps, go the `src` folder from your terminal and execute `npx sequelize-cli db:create`
