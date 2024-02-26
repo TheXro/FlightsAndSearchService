@@ -1,13 +1,11 @@
 # Welcome to Flight Service
 
 ## Project Setup
-
-    - clone the project
-    - run `npm install` in the root directory
-    - create a .env file in the root directory and add the following environment variables
-        - PORT=3000
-    - Inside the src/config folder create a new file `config.json` and then add the following piece of json
-
+- clone the project
+- run `npm install` in the root directory
+- create a .env file in the root directory and add the following environment variables
+    - PORT=3000
+- Inside the src/config folder create a new file `config.json` and then add the following piece of json
     ```json
     {
 
